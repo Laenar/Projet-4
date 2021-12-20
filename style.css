@@ -709,7 +709,7 @@ h2 {
     line-height: 1.4em;
 }
 
-h3 {
+h3, .h2__style_h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
@@ -1039,4 +1039,9 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.p__citation {
+    font-size: 20px;
+    font-style: italic;
 }
